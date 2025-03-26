@@ -1,7 +1,5 @@
 # 🎙️ Whisper AI - Speech-to-Text Transcription  
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&lines=🎙️ Whisper AI + Speech to Text +Transcription  " />
-</h1>
+
 Whisper AI is an advanced automatic speech recognition (ASR) model developed by OpenAI. This project leverages Whisper AI to transcribe spoken language into text with high accuracy, supporting multiple languages and various audio formats. It is ideal for real-time transcription, accessibility solutions, and content generation.  
 
 ## 📌 Features  
@@ -23,5 +21,5 @@ Whisper AI is an advanced automatic speech recognition (ASR) model developed by 
   - NumPy  
   - Jupyter Notebook  
 
-## 📂 Project Structure  
+ 
 
