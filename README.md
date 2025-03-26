@@ -21,7 +21,12 @@ Whisper AI is an advanced automatic speech recognition (ASR) model developed by 
   - NumPy  
   - Jupyter Notebook
  
+  - PPT link  https://drive.google.com/file/d/1TC0lF_PiXiwZof3EBmt8te_jqmbc8_EK/view?usp=sharing
+ 
   - demo video link
     https://drive.google.com/file/d/13UGJs_kH82jgQxBNu6HAnw_zJ-1kQHvn/view
+
+
+    
  
 
